@@ -1,0 +1,19 @@
+C:\Users\hp\source\repos\Task\Snake Games\bin\Debug\net5.0-windows\Snake Games.exe
+C:\Users\hp\source\repos\Task\Snake Games\bin\Debug\net5.0-windows\Snake Games.deps.json
+C:\Users\hp\source\repos\Task\Snake Games\bin\Debug\net5.0-windows\Snake Games.runtimeconfig.json
+C:\Users\hp\source\repos\Task\Snake Games\bin\Debug\net5.0-windows\Snake Games.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Task\Snake Games\bin\Debug\net5.0-windows\Snake Games.dll
+C:\Users\hp\source\repos\Task\Snake Games\bin\Debug\net5.0-windows\ref\Snake Games.dll
+C:\Users\hp\source\repos\Task\Snake Games\bin\Debug\net5.0-windows\Snake Games.pdb
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.AssemblyInfo.cs
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.dll
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\ref\Snake Games.dll
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.pdb
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.genruntimeconfig.cache
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake_Games.Form1.resources
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake Games.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Task\Snake Games\obj\Debug\net5.0-windows\Snake_Games.Properties.Resources.resources
